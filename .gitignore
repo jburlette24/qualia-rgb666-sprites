@@ -1,0 +1,38 @@
+# Arduino build folders
+build/
+.pio/
+.pioenvs/
+.pio/libdeps/
+
+# Compiled binaries / firmware images
+*.elf
+*.bin
+*.hex
+*.map
+*.eep
+
+# Object/cache files
+*.o
+*.obj
+*.a
+*.d
+
+# Archives / logs
+*.gz
+*.zip
+*.log
+
+# IDE metadata
+.vscode/
+.idea/
+*.code-workspace
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Temporary scratch
+*.tmp
+*.bak
+*.orig
+*~
