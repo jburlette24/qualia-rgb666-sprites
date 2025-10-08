@@ -38,7 +38,7 @@ When double buffering is disabled the renderer emits a short two-byte “tick”
 - `hardware.{h,cpp}`: display, canvas, backlight, and touch bring-up
 - `renderer.{h,cpp}`: frame composition and present strategy
 - `PanelDBuf.{h,cpp}`: lightweight wrapper over ESP-IDF RGB double-buffer calls
-- `sprites.{h,cpp}` plus `*.h` art assets: pixel data and blitting helpers
+- `sprites.{h,cpp}` plus `sprite_assets/*.h|*.cpp`: pixel data and blitting helpers
 - `actors.h`: sprite behavior classes (bounce + fling)
 
 ## Tips

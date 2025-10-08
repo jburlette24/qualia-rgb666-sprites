@@ -18,10 +18,10 @@
 #endif
 
 #include "sprites.h"
-#include "alex.h"
-#include "amelia.h"
-#include "jim.h"
-#include "fluffles.h"
+#include "sprite_assets/alex.h"
+#include "sprite_assets/amelia.h"
+#include "sprite_assets/jim.h"
+#include "sprite_assets/fluffles.h"
 #include "actors.h"
 
 // --- Global display plumbing -------------------------------------------------
